@@ -18,8 +18,8 @@
   
   <entry>
     <title>我的第一篇帖子</title>
-    <link href="https://lfli.github.io/uncategorized/My-First-Post"/>
-    <id>https://lfli.github.io/uncategorized/My-First-Post</id>
+    <link href="https://lfli.github.io/uncategorized/My-First-Post/"/>
+    <id>https://lfli.github.io/uncategorized/My-First-Post/</id>
     <published>2019-05-12T02:27:59.000Z</published>
     <updated>2019-05-12T02:30:55.364Z</updated>
     
@@ -34,8 +34,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://lfli.github.io/uncategorized/hello-world"/>
-    <id>https://lfli.github.io/uncategorized/hello-world</id>
+    <link href="https://lfli.github.io/uncategorized/hello-world/"/>
+    <id>https://lfli.github.io/uncategorized/hello-world/</id>
     <published>2019-05-12T01:31:04.976Z</published>
     <updated>2019-05-12T01:31:04.977Z</updated>
     
